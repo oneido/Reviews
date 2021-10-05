@@ -29,7 +29,7 @@ body {
 	line-height: 1.5;
 	color: ghostwhite;
 	font-size: 2rem;
-	background: linear-gradient( to top, #faa7d2, mediumpurple);
+	background: linear-gradient( to top, mediumpurple,ghostwhite 10%, #faa7d2, mediumpurple);
 	background-size: cover;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
