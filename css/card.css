@@ -30,6 +30,11 @@
 	border-radius: 15px;
 }
 
+.card__container--closed:active{
+box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);	
+}
+
+
 .card__image {
 	position: relative;
 	left: 50%;
