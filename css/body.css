@@ -28,7 +28,7 @@ body {
 	 font-family: 'Nanum Pen Script', cursive;
 	line-height: 1.5;
 	color: ghostwhite;
-	font-size: 2ren;
+	font-size: 2rem;
 	background: linear-gradient( to top, #faa7d2, mediumpurple);
 	background-size: cover;
 	-webkit-font-smoothing: antialiased;
