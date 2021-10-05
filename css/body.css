@@ -35,6 +35,9 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	overflow: hidden;
 	overflow-y: scroll;
+	height: 100vh;
+	margin: 0px;
+	
 }
 
 body.body--hidden {
