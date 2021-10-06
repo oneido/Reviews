@@ -137,7 +137,7 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 }
 
 .meta {
-	font-size: .85em;
+	font-size: 1em;
 	display: -webkit-flex;
 	display: flex;
 	padding: 0 0 35px 0;
