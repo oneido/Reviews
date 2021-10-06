@@ -75,7 +75,7 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 	font-size: 1em;
 	max-width: 900px;
 	margin: 0 auto;
-	padding: 1rem 10px;
+	padding: 1em;
 }
 
 .card__container--closed .card__caption {
