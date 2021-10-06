@@ -71,6 +71,9 @@ layout: compress
                                 <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                             </div>
                             {{ post.content }}
+                            {% if paginator.previous_page or paginator.next_page %}
+                {% include pagination.html %}
+            {% endif %}
                         </div>
                     </div>
                 </div>
