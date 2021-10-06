@@ -120,6 +120,7 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 
 .card__copy img{
 	object-fit: contain;
+	width: 100%;
 }
 
 .card__btn-close {
