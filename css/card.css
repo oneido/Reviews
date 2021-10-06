@@ -106,7 +106,7 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 }
 
 .card__copy {
-	font-size:  1.5em;
+	font-size:  .8em;
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 25px 30px 100px;
@@ -114,7 +114,7 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 }
 
 .card__copy p {
-	font-size: 1.5em;
+	
 	padding: 0 0 1em 0;
 }
 
