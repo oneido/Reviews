@@ -118,6 +118,10 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 	padding: 0 0 1em 0;
 }
 
+.card__copy img{
+	object-fit: contain;
+}
+
 .card__btn-close {
 	font-size: 18px;
 	position: absolute;
