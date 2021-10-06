@@ -118,7 +118,7 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 	padding: 0 0 1em 0;
 }
 
-.card__copy img{
+.card__copy .contentImg{
 	object-fit: contain;
 	width: 100%;
 }
