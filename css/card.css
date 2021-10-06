@@ -128,12 +128,17 @@ box-shadow: 12px 12px 2px 1px rgb(0 0 255 / 20%);
 }
 
 .card__btn-close {
-	font-size: 18px;
+/* 	font-size: 18px;
 	position: absolute;
 	top: 0;
 	right: 0;
 	padding: 36px;
-	cursor: pointer;
+	cursor: pointer; */
+	font-size: 2rem;
+    position: sticky;
+    top: 1rem;
+    left: 100vw; 
+    cursor: pointer;
 }
 
 .card__container--closed .card__btn-close {
