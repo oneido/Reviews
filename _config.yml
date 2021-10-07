@@ -1,7 +1,7 @@
 # Site settings
 title: 다이어트 이야기
 description: 다이어트 후기
-keywords: diat
+keywords: diet
 author: charmsuri
 baseurl: "/Reviews" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
