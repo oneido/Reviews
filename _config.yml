@@ -6,5 +6,5 @@ author: charmsuri
 baseurl: "/Reviews" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
-paginate: 3
+paginate: 4
 google_analytics: 'G-DG786747PP'
